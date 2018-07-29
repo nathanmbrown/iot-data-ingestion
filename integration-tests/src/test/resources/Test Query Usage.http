@@ -1,0 +1,9 @@
+POST http://localhost:9000/api/usage
+Content-Type: application/json
+
+{
+  "consumerId" : "House-1",
+  "date" : "2017-09-20"
+}
+
+###
